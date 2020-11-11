@@ -1,0 +1,9 @@
+ips.txt
+novalista
+oi.txt
+olá/
+questao1.sh*
+questao2.sh*
+questao3.sh*
+questao4.txt*
+questao5.txt
